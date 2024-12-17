@@ -1,0 +1,36 @@
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\appsettings.Development.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\appsettings.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\API_ASP.Net Proyect.staticwebassets.endpoints.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\API_ASP.Net Proyect.exe
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\API_ASP.Net Proyect.deps.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\API_ASP.Net Proyect.runtimeconfig.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\API_ASP.Net Proyect.dll
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\API_ASP.Net Proyect.pdb
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.csproj.AssemblyReference.cache
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.AssemblyInfoInputs.cache
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.AssemblyInfo.cs
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.csproj.CoreCompileInputs.cache
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.MvcApplicationPartsAssemblyInfo.cs
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.MvcApplicationPartsAssemblyInfo.cache
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\scopedcss\bundle\API_ASP.Net Proyect.styles.css
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets.build.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets.development.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets\msbuild.API_ASP.Net Proyect.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets\msbuild.API_ASP.Net Proyect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets\msbuild.build.API_ASP.Net Proyect.props
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API_ASP.Net Proyect.props
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API_ASP.Net Proyect.props
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP..2CF83F37.Up2Date
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.dll
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\refint\API_ASP.Net Proyect.dll
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.pdb
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\API_ASP.Net Proyect.genruntimeconfig.cache
+D:\Api Web con ASP.Net Core_C#\API_ASP.Net Proyect\API_ASP.Net Proyect\obj\Debug\net8.0\ref\API_ASP.Net Proyect.dll
